@@ -2,10 +2,9 @@
 
 **Sports Sphere** is a dynamic and responsive sports news hub built using modern web development technologies. Designed as a final project for demonstrating front-end skills, it integrates HTML5, CSS3, and JavaScript for interactivity and is deployed for public access.
 
-
 ## Live Demo
 
-
+https://jefther37.github.io/Sports-Sphere.com/
 
 ## Project Features
 
@@ -26,6 +25,7 @@
 - **Responsive Design**: Mobile-friendly layout using media queries.
 
 ### JavaScript Interactivity
+
 - Theme toggle (light/dark mode)
 - Form validation on contact page
 - Hover animations for news cards
@@ -35,9 +35,7 @@
 ### Deployment
 This website is ready to be deployed on:
 
-- [GitHub Pages](https://pages.github.com/)
-
-
+[GitHub Pages](https://jefther37.github.io/Sports-Sphere.com/)
 
 ## Folder Structure
 
@@ -71,19 +69,26 @@ Developer: Jefther Simeon Afuyo
 Email: afuyojefther@gmail.com
 Phone: 0796090806
 
-
-
 ## Assignment Checklist
 
 Requirement	Status
+
 Multipage website (3+ pages)	✅ Done
+
 Responsive design	✅ Done
+
 JavaScript interactivity	✅ Done
+
 Form validation	✅ Done
+
 Dark mode / theme toggle	✅ Done
+
 Live deployment link	✅ Done
+
 Well-structured HTML5	✅ Done
+
 Semantic HTML elements used	✅ Done
+
 README file with project info	✅ Done
 
 

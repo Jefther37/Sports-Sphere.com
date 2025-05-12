@@ -34,17 +34,22 @@ https://jefther37.github.io/Sports-Sphere.com/
 
 ### Deployment
 This website is ready to be deployed on:
-
-[GitHub Pages](https://jefther37.github.io/Sports-Sphere.com/)
+(https://jefther37.github.io/Sports-Sphere.com/)
 
 ## Folder Structure
 
 images
+
 about.html
+
 contact.html
+
 index.html
+
 privacy.html
+
 script.js
+
 style.css
 
 ## Setup Instructions

@@ -54,7 +54,7 @@ style.css
 ### Local Setup
 1. Download or clone the repo:
    ```bash
-   
+   https://github.com/Jefther37/Sports-Sphere.com.git
 
 2. Open index.html in your browser to test locally.
 
